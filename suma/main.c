@@ -12,5 +12,6 @@ int main()
     scanf("%d",&numero2);
     suma = numero1 + numero2;
     printf("suma:%d\n",suma);
+    printf("Finalizo!!!!! jugando con git");
     return 0;
 }
